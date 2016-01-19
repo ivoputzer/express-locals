@@ -1,0 +1,29 @@
+{
+  "name": "express-locals",
+  "version": "0.0.0",
+  "description": "simple local-var loader for express. handy for template engine module injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "express",
+    "locals",
+    "module"
+  ],
+  "author": "Ivo von Putzer Reibegg <ivo.putzer@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivoputzer/express-locals.git"
+  },
+  "readme": "readme.md",
+  "bugs": {
+    "url": "https://github.com/ivoputzer/express-locals/issues"
+  },
+  "homepage": "https://github.com/ivoputzer/express-locals"
+}
